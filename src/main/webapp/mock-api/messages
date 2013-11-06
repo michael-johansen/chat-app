@@ -1,0 +1,31 @@
+{
+    "content": [
+        {
+            "text": "Hello everybody!",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://localhost:8080/mock-api/message/1"
+                },
+                {
+                    "rel": "group",
+                    "href": "http://localhost:8080/mock-api/group/1"
+                }
+            ]
+        },
+        {
+            "text": "Goodbye everybody!",
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://localhost:8080/mock-api/message/2"
+                },
+                {
+                    "rel": "group",
+                    "href": "http://localhost:8080/mock-api/group/1"
+                }
+            ]
+        }
+    ],
+    "links": []
+}
